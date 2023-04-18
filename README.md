@@ -16,7 +16,7 @@
   
 - :shamrock: I'm a professional biologist but, stuff happens and now I'm much more into programming.
   
-- :dart: My current goal is to join the industry by working along with a team of programmers who also love to learn and give feedback. There's much you can do by yourself, but much more that you can with team mates.
+- :dart: My current goal is to join the industry by working along with a team of programmers who also love to learn and give feedback. There's much you can do by yourself, but it won't be as much as you can do by team work.
 
 ---
 ## :hammer_and_wrench: Languages and Tools :
