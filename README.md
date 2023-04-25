@@ -46,7 +46,7 @@
 
 [![Salvarez96's GitHub stats](https://github-readme-stats.vercel.app/api?username=salvarez96&count_private=true&show_icons=true&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Salvarez96's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=salvarez96&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Salvarez96's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=salvarez96&layout=compact&theme=vision-friendly-dark&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 <!--
 **salvarez96/salvarez96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
