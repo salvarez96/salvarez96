@@ -11,13 +11,13 @@
 
 ### :writing_hand: About Me :
 
-- :computer: I'm a self-taught frontend web developer right now focusing on React and TypeScript.
+- :computer: I'm a self-taught fullstack developer with one year professional experience.
   
-- :man_technologist: My goal is to become a fullstack engineer in the near future.
+- :man_technologist: I was given the opportunity to work as a backend PHP developer with zero knowlegde in backend and PHP, only with frontend and programming knowlegde. Risky? Sure. Worth it? Absolutely, now I can do both frontend and backend tasks.
   
-- :shamrock: I'm a professional biologist but, stuff happens and now I'm much more into programming.
+- :shamrock: Fun fact: I'm also professional biologist, but I'm much more into programming now.
   
-- :dart: My current goal is to join the industry by working along with a team of programmers who also love to learn and give feedback. There's much you can do by yourself, but it won't be as much as you can do by team work.
+- :dart: My current goal is to keep learning by working in the industry along with a team of programmers who also love to learn and give feedback. There's much you can do by yourself, but it won't be as much as you can do by team work.
 
 ---
 ### :hammer_and_wrench: Languages and Tools :
@@ -27,10 +27,18 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original-wordmark.svg" title="Vue" alt="Vue" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="Sass" alt="Sass" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" title="Postman" alt="Postman" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" title="NPM" alt="NPM" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="Visual Studio Code" alt="Visual Studio Code" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" alt="PHP" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original-wordmark.svg" title="Laravel" alt="Laravel" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/dbeaver/dbeaver-original.svg" title="Dbeaver" alt="Dbeaver" width="40" height="40"/>&nbsp;
 </p>
 
 ---
