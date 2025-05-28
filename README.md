@@ -11,7 +11,7 @@
 
 ### :writing_hand: About Me :
 
-- :computer: I'm a self-taught fullstack developer with one year professional experience.
+- :computer: I'm a self-taught fullstack developer with two years of professional experience.
   
 - :man_technologist: I was given the opportunity to work as a backend PHP developer with zero knowlegde in backend and PHP, only with frontend and programming knowlegde. Risky? Sure. Worth it? Absolutely, now I can do both frontend and backend tasks.
   
